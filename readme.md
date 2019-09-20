@@ -1,3 +1,5 @@
-Hello World!
+####Hello World!
 
-Today is Thursday.
+The day is Thursday.
+
+This is an edited version of the original readme :)
